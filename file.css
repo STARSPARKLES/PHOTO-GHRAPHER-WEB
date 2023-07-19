@@ -1,0 +1,850 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.main::before {
+    background: url("https://media.istockphoto.com/id/1384861062/photo/woman-taking-photo-of-spring-fashion-accessories-with-smartphone-influencer-and-social-media.jpg?s=612x612&w=0&k=20&c=FzCYnLsQlFBuDPII4sIzxy3rLQaqBdpnU3TNBuQP9So=") no-repeat center center/cover;
+    content: "";
+    position: absolute;
+    width: 99%;
+    height: 70%;
+    z-index: -1;
+    opacity: 0.8;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+h1 {
+    color: black;
+    margin-top: 0px;
+}
+
+.subclass1 ol {
+    list-style: none;
+    margin-left: 32%;
+}
+
+.subclass1 ol li a {
+    width: 245px;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    text-decoration: none;
+    float: left;
+    font-size: 23px;
+    color: rgb(140, 41, 114);
+    font-family: 'Bowlby One SC', cursive;
+    /* font-weight: bold; */
+    
+    
+    
+}
+
+.subclass1 ol li a:hover {
+    color: rgb(6, 62, 125);
+    
+}
+
+.button {
+    margin-left: 40px;
+    padding: 10px 22px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+.button:hover {
+    color: black;
+    background-color: wheat;
+}
+
+.subclass2 #p1 {
+    margin-right: 30px;
+    margin-left: 35%;
+    margin-top: 13%;
+    font-weight: bold;
+    font-size: 42px;
+    /* color: white; */
+    color: black;
+}
+
+.subclass2 address {
+    margin-left: 39%;
+    font-weight: bold;
+    font-size: 22px;
+    color: black;
+}
+
+.subclass2 #p2 {
+    color: black;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-right: 12%;
+    text-align: center;
+}
+
+.subclass-main {
+    display: flex;
+    margin-top: 10em;
+}
+
+.subclass3 {
+    margin-left: 2%;
+    /* border: 2px solid black; */
+}
+
+.subclass3 .logo img {
+    width: 120px;
+    height: 80px;
+    margin-left: 33%;
+}
+
+.subclass3 h5 {
+    margin-left: 30%;
+    font-size: 14px;
+    font-family: 'Bruno Ace SC', cursive;
+    ;
+}
+
+#subclass3-p3 {
+    text-align: center;
+    width: 400px;
+    margin-left: 25px;
+
+}
+
+#subclass3-a {
+    margin-left: 130px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Pacifico', cursive;
+
+}
+
+#subclass3-a:hover {
+    color: purple;
+}
+
+.subclass4 {
+    margin-left: 5%;
+    /* border: 2px solid black; */
+}
+
+.subclass4 .logo img {
+    width: 110px;
+    height: 90px;
+    margin-left: 35%;
+}
+
+.subclass4 h5 {
+    margin-left: 37%;
+    font-size: 14px;
+    font-family: 'Bruno Ace SC', cursive;
+    ;
+}
+
+#subclass4-p4 {
+    text-align: center;
+    width: 400px;
+    margin-left: 25px;
+
+}
+
+#subclass4-a {
+    margin-left: 140px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Pacifico', cursive;
+
+}
+
+#subclass4-a:hover {
+    color: rgb(110, 52, 110);
+}
+
+.subclass5 {
+    margin-left: 5%;
+
+
+}
+
+.subclass5 .logo img {
+    width: 120px;
+    height: 90px;
+    margin-left: 35%;
+}
+
+.subclass5 h5 {
+    margin-left: 37%;
+    font-size: 14px;
+    font-family: 'Bruno Ace SC', cursive;
+
+}
+
+#subclass5-p5 {
+    text-align: center;
+    width: 400px;
+    margin-left: 25px;
+
+}
+
+#subclass5-a {
+    margin-left: 160px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Pacifico', cursive;
+
+}
+
+#subclass5-a:hover {
+    color: purple;
+}
+
+.subclass-main1 {
+    display: flex;
+    margin-top: 125px;
+}
+
+#image {
+
+    width: 820%;
+    height: 100%;
+
+}
+
+.mystory {
+    margin-left: 39.56%;
+    text-align: left;
+    background-color: rgb(183, 183, 201);
+}
+
+#btn {
+    margin-top: 5%;
+    border-radius: 5px;
+    padding: 18px 24px;
+    margin-left: 2%;
+    background: transparent;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#btn:hover {
+    color: black;
+    background-color: purple;
+}
+
+.mystory h1 {
+
+    font-family: 'Radio Canada', sans-serif;
+    color: black;
+    font-size: 45px;
+    margin-left: 2%;
+    margin-top: 10%;
+}
+
+.mystory h3 {
+    margin-left: 2%;
+    margin-top: 5%;
+    color: black;
+    font-family: 'Faster One', cursive;
+    font-size: 25px;
+}
+
+.mystory p {
+    color: black;
+    margin-left: 2%;
+    margin-top: 6%;
+}
+
+.subclass-main2 {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    margin-top: 6%;
+}
+
+.subclass-main2 address {
+    font-size: 30px;
+
+
+}
+
+.subclass-main2 p {
+    font-size: 60px;
+
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+
+}
+
+.subclass-main2 .links {
+
+    padding: 0px 30%;
+}
+
+.subclass-main2 .links a {
+    margin: 0%;
+    color: white;
+    padding: 0px 10px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.subclass-main2 .links a:hover {
+    color: blueviolet;
+}
+
+.portfolio-images img {
+    width: 20%;
+    align-items: center;
+    height: 20%;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+
+.subclass-main3 {
+    margin-top: 8%;
+    display: flex;
+
+}
+
+
+
+.subclass-main3 .child1 {
+    height: 12%;
+    padding: 0% 20px;
+    color: white;
+    font-weight: bold;
+    /* font-family: ; */
+    font-size: 20px;
+    position: absolute;
+    width: 500px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+    text-align: center;
+    margin-top: 28%;
+
+
+}
+
+
+.subclass-main3 .child2 {
+    height: 12%;
+    width: 30%;
+    margin-left: 33%;
+    color: white;
+    font-weight: bold;
+    /* font-family: ; */
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    width: 500px;
+    text-align: center;
+    margin-top: 28%;
+
+
+}
+
+.subclass-main3 .child3 {
+    height: 12%;
+    width: 30%;
+    margin-left: 67%;
+    color: white;
+    font-weight: bold;
+    /* font-family: ; */
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+    position: absolute;
+    width: 490px;
+    text-align: center;
+    margin-top: 28%;
+
+}
+
+#img1 {
+
+    height: 99.34%;
+    margin-right: 0%;
+}
+
+#img2 {
+
+    height: 99.34%;
+
+}
+
+#img3 {
+    height: 99.34%;
+    width: 102%;
+
+}
+
+.btn1 {
+    padding: 15px 23px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: transparent;
+
+}
+
+.btn1:hover {
+    background-color: rgb(68, 11, 68);
+    color: black;
+
+}
+
+.subclass-main4 {
+    background-color: white;
+    margin-top: 6%;
+    display: flex;
+    color: black;
+
+}
+
+.subclass-main4 h1 {
+    color: white;
+}
+
+.subclass-main4 img {
+
+    width: 60px;
+    height: 57px;
+    border-radius: 26px;
+    background-color: black;
+}
+
+.subclass-main4 h1 {
+
+    font-size: 47px;
+}
+
+#child1-main4 {
+    margin-top: 2%;
+    width: 30%;
+    text-align: center;
+}
+
+.main4-num {
+    margin-top: 4%;
+    font-weight: bold;
+    font-size: 57px;
+}
+
+.main4-p1 {
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+#child2-main4 {
+    margin-left: 5%;
+    width: 30%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+#child3-main4 {
+    margin-left: 5%;
+    width: 30%;
+    text-align: left;
+}
+
+.child3-p1 {
+    font-weight: bold;
+    font-size: 20px;
+    opacity: 0.4;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.child3-p1 #hr1 {
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 2px 0px;
+
+
+}
+
+.child3-p1 #hr2 {
+    background-color: black;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 1%;
+    border: 2px solid black;
+    padding: 2px 0px;
+
+
+}
+
+.child3-p1 #hr3 {
+    width: 80%;
+    margin-left: 1%;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 2px 0px;
+
+
+}
+
+.child3-p1 #hr4 {
+    width: 70%;
+    margin-left: 1%;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 2px 0px;
+
+
+}
+
+.child3-p1 #hr5 {
+
+    width: 60%;
+    margin-left: 1%;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 2px 0px;
+
+}
+
+.subclass-main5::before {
+
+    background: url("https://images.unsplash.com/photo-1518463732211-f1e67dfcec66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTd8NDk2NDE2fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    opacity: 0.7;
+    height: 100%;
+
+    width: 99%;
+}
+
+.subclass-main5 {
+    display: flex;
+}
+
+.main5-btn {
+    margin-top: 10%;
+    border-radius: 5px;
+    padding: 15px 20px;
+    border: 2px solid black;
+    background-color: transparent;
+    color: black;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.main5-btn:hover {
+    color: white;
+    background-color: rgb(54, 5, 54);
+}
+
+.main5-div1 {
+    text-align: center;
+    margin-top: 7%;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(14.5px);
+    -webkit-backdrop-filter: blur(14.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+}
+
+.main5-div2 {
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(14.5px);
+    -webkit-backdrop-filter: blur(14.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    margin-top: 7%;
+    text-align: center;
+    height: 33em;
+
+}
+
+.main5-div3 {
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(14.5px);
+    -webkit-backdrop-filter: blur(14.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    margin-top: 7%;
+    text-align: center;
+
+}
+
+.main5-div1child h1 {
+    font-family: 'Radio Canada', sans-serif;
+
+    font-weight: bold;
+}
+
+.main5-div2child h1 {
+    font-family: 'Radio Canada', sans-serif;
+
+    font-weight: bold;
+}
+
+.main5-div3child h1 {
+    font-family: 'Radio Canada', sans-serif;
+
+    font-weight: bold;
+}
+
+.main5-div1child p {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.main5-div2child p {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.main5-div3child p {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.subclass-main6 {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#profile-pic {
+    width: 180px;
+    height: 202px;
+
+}
+
+.subclass-main6 p {
+    text-align: center;
+}
+
+#main6-p1 {
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 14px;
+
+}
+
+#main6-p2 {
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 18px;
+
+}
+
+.subclass-main7 {
+    display: flex;
+
+}
+
+.main7-img2 {
+    width: 102%;
+    height: 140%;
+
+}
+
+.main7-img1 {
+    width: 102%;
+    height: 140%;
+}
+
+.main7-img3 {
+    width: 102%;
+    height: 140%;
+}
+
+.main7-img4 {
+    width: 102%;
+    height: 140%;
+}
+
+.main-container {
+    margin-top: 8%;
+    background-color: white;
+    display: flex;
+    color: black;
+   
+
+}
+form textarea{
+    border: none;
+    border-bottom: 1px solid black;
+ 
+}
+.sub-container1 form  input {
+
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 2px solid black;
+    height: 10%;
+    margin: 10px 0px;
+    padding: 10px 10px;
+    border-radius: 4px solid black;
+    color: white;
+
+}
+
+.sub-container1 form #name {
+    width: 96.34%;
+}
+
+.sub-container1 form #image {
+    width: 96.34%;
+}
+
+.sub-container1 form #category {
+    padding: 10px 123px;
+}
+
+.sub-container1 form #currency {
+    padding: 10px 123px;
+    margin-left: 10px;
+}
+
+form #currency-label {
+    margin-left: 14%;
+}
+
+.sub-container1 form #quantity {
+    padding: 10px 82px;
+}
+
+.sub-container1 form #price {
+    padding: 10px 86px;
+    margin-left: 10px;
+}
+
+form #price-label {
+    /* margin-top: 5px; */
+    margin-left: 18%;
+}
+
+#button {
+    margin-left: 40%;
+    padding: 10px 40px;
+    color: black;
+    border-radius: 2px solid black;
+    border-radius: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: bold;
+
+}
+
+#button:hover {
+    background-color: black;
+    color: white;
+}
+.sub-container2{
+    margin-left: 10%;
+    text-align: left;
+}
+#sub-container2-p1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+#sub-container2-p2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Radio Canada', sans-serif;
+}
+#sub-container2-p3{
+    font-size: 17px;
+}
+#sub-container2-p4{
+    margin-top: 6%;
+    font-weight: bold;
+    font-size: 18px;
+    opacity: 0.5;
+    margin-bottom: 4%;
+
+}
+#sub-container2-p5{
+    opacity: 0.5;
+    font-family: 'Radio Canada', sans-serif;
+}
+#sub-container2-p6{
+    margin-top: 4%;
+    opacity: 0.5;
+    font-family: 'Radio Canada', sans-serif;
+}
+.subclass-main8{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#subclassmain8-btn{
+    padding: 5% 20%;
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+
+#subclassmain8-btn:hover{
+    background-color: purple;
+    color: black;
+}
+.main8-child1{
+    width: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.main8-img{
+    width: 10%;
+    height: 20%;
+    margin: 1% 1%;
+}
+.main8-child2{
+    margin-left: 2%;
+}
+.subclass-main9{
+    margin-top: 5%;
+    margin-left: 10%;
+    display: flex;
+    
+}
+.main9-img{
+    width: 150%;
+    height: 100%;
+}
+.subclass-main10{
+    background-color: rgb(72, 13, 72);
+    display: flex;
+    justify-content: center;
+}
+.main10-p{
+color: rgb(220, 212, 212);
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Radio Canada', sans-serif;
+}
